@@ -1,7 +1,13 @@
 venv/
 __pycache__/
+<<<<<<< HEAD
 *.pkl
 *.model
 *.pt
 *.h5
 .DS_Store
+=======
+.ipynb_checkpoints/
+*.csv
+.env
+>>>>>>> 3a057823074ce3224948584877edc548939d741b
